@@ -1,0 +1,11 @@
+{
+  "name": "SE3314 Assignment 1: Client-Server Application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "../Client/GetImage.js",
+  "dependencies": {
+    "open": "^7.4.2"
+  },
+  "author": "Jeffano John",
+  "license": "ISC"
+}
